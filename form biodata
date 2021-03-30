@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Input Biodata</title>
+  <title>Input Form Biodata</title>
   <style type='text/css' >
   #button1 {
   padding-left:20px;
@@ -43,7 +43,7 @@
     <form action='index.jsp' method='get'>
    <table id='tabel1' align='center' border='0' >
     <tr id='kepala'>
-     <th colspan='2' id='kepala'>BIODATA SISWA</th>
+     <th colspan='2' id='kepala'> FORM BIODATA SISWA</th>
     </tr>
     <tr>
      <td colspan='2'>
