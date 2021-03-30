@@ -49,7 +49,7 @@
      <td colspan='2'>
         <table align='center' id='tabel1_isi' border='0'>
             <tr>
-            <td id='kolom1'>NIS :</td>
+            <td id='kolom1'>NISN :</td>
             <td><input type='text' name='nis' size='10' required></td>
             </tr>
             <tr>
